@@ -187,6 +187,27 @@ h1{
     .char-img{
         margin-right: 1rem;
     }
+    .character .row img{
+        height: 20rem;
+    }
+    .row.title.main{
+        margin-bottom: 15rem !important;
+    }
+    #roster .row{
+        margin-bottom: 11rem;
+    }
+    #key .row{
+        margin-bottom: 8rem;
+    }
+    #key p{
+        top: -6rem;
+    }
+    .right{
+        float: initial;
+    }
+    .container.one-half.right .row{
+    margin-top: 5rem !important;
+}
 }
 
 
