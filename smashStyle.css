@@ -206,8 +206,13 @@ h1{
         float: initial;
     }
     .container.one-half.right .row{
-    margin-top: 5rem !important;
+        margin-top: 5rem !important;
+    }
 }
+@media only screen and (max-width: 400px){
+    #roster .row{
+        margin-bottom: 16.25rem;
+    }
 }
 
 
