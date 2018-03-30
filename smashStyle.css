@@ -148,8 +148,14 @@ h1{
     background: radial-gradient(var(--white) -100%, transparent 50%);
 }
 .character p{
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     text-align: justify;
+}
+.character h1{
+    text-transform: uppercase;
+}
+.character h3{
+    font-size: 2rem;
 }
 #top{
     display: none;
